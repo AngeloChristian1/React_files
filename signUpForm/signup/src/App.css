@@ -1,0 +1,39 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  background: rgb(5, 5, 61);
+}
+.formm {
+  background: white;
+  width: 85vw;
+  height: 85vh;
+  margin: 5px auto 5px 30px;
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+}
+input {
+  width: 70%;
+  height: 30px;
+  padding: 5px;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 10px 0px;
+}
+label {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin-right: 20px;
+}
+.cancel {
+  background: red;
+  color: white;
+}
+.submit {
+  background: rgb(6, 238, 6);
+  color: white;
+}
+.btn {
+  width: 150px;
+  margin: 100px 10px;
+}
